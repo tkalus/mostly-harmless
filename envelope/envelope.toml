@@ -1,0 +1,12 @@
+size = "#10"
+from = [
+  "E. L. Brown",
+  "1640 Riverside Drive",
+  "Hill Valley, CA 91103",
+]
+to = [
+  "Burton Richter",
+  "c/o SLAC National Laboratory",
+  "2575 Sand Hill Rd",
+  "Menlo Park, CA 94025",
+]
